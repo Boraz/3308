@@ -2,4 +2,7 @@
 
 This should be a read me
 
-MERGE CONFLICT
+#Hello Dan!
+##This is jcherrera
+-You good?!
+-Yes
