@@ -1,3 +1,5 @@
 # 3308
 
-This shhould be a read me
+This should be a read me
+
+MERGE CONFLICT
